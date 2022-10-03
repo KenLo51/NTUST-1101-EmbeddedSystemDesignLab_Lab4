@@ -19,3 +19,9 @@ NTUST 110-1-溫進坤-嵌入式系統設計實習 Lab4(踩地雷遊戲)
 ##### 使用環境：
 >  1. STM32CubeMX Version 6.4.0
 >  2. µVision V5.36.0.0
+
+#### 執行結果：
+![](https://i.imgur.com/8IuN0Zd.jpg)
+![](https://i.imgur.com/wamN9LD.jpg)
+![](https://i.imgur.com/9YmiwQ3.jpg)
+![](https://i.imgur.com/dLhtLtv.jpg)
