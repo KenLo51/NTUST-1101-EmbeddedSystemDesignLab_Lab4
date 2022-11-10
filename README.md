@@ -24,7 +24,5 @@ NTUST 110-1-溫進坤-嵌入式系統設計實習 Lab4(踩地雷遊戲)
 >  1. [Light and Versatile Graphics Library](https://lvgl.io/)
 
 #### 執行結果：
-![](https://i.imgur.com/8IuN0Zd.jpg)
-![](https://i.imgur.com/wamN9LD.jpg)
-![](https://i.imgur.com/9YmiwQ3.jpg)
-![](https://i.imgur.com/dLhtLtv.jpg)
+<img src="https://i.imgur.com/8IuN0Zd.jpg" width="403" height="302" /><img src="https://i.imgur.com/wamN9LD.jpg" width="403" height="302" />
+<img src="https://i.imgur.com/9YmiwQ3.jpg" width="403" height="302" /><img src="https://i.imgur.com/dLhtLtv.jpg" width="403" height="302" />
