@@ -20,6 +20,9 @@ NTUST 110-1-溫進坤-嵌入式系統設計實習 Lab4(踩地雷遊戲)
 >  1. STM32CubeMX Version 6.4.0
 >  2. Keil µVision V5.36.0.0
 
+##### Library
+>  1. [Light and Versatile Graphics Library](https://lvgl.io/)
+
 #### 執行結果：
 ![](https://i.imgur.com/8IuN0Zd.jpg)
 ![](https://i.imgur.com/wamN9LD.jpg)
