@@ -1,6 +1,6 @@
 # Minesweeper With LVGL on STM32F746GDISCO
 
-##### 作業題目：
+##### 基本功能：
 >  1. 開機後自動進入設定畫面，設定炸彈數量5 - 99，設定完成後開始遊戲。
 >  2. 炸彈需”隨機”放置於15*8的畫面中。
 >  3. 遊戲中左上角顯示炸彈總數量。
@@ -13,7 +13,7 @@
 >  10.使用STemWin或TouchGFX完成GUI畫面。
 
 ##### 改進功能：
->  1. 改為使用LVGL製作GUI與自行porting。(修改題目5.)
+>  1. 改為使用LVGL製作GUI與自行porting。
 
 ##### 使用環境：
 >  1. STM32CubeMX Version 6.4.0
