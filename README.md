@@ -1,5 +1,4 @@
-# NTUST-1101EmbeddedSystemDesignLab_Lab4
-NTUST 110-1-溫進坤-嵌入式系統設計實習 Lab4(踩地雷遊戲)
+# Minesweeper With LVGL on STM32F746GDISCO
 
 ##### 作業題目：
 >  1. 開機後自動進入設定畫面，設定炸彈數量5 - 99，設定完成後開始遊戲。
