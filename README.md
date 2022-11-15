@@ -1,5 +1,7 @@
 # Minesweeper With LVGL on STM32F746GDISCO
 
+自行移植LVGL[1]至STM32F746G-DISCO開發版，製作Minesweeper(踩地雷)遊戲
+
 ##### 基本功能：
 >  1. 開機後自動進入設定畫面，設定炸彈數量5 - 99，設定完成後開始遊戲。
 >  2. 炸彈需”隨機”放置於15*8的畫面中。
@@ -10,10 +12,7 @@
 >  7. 畫面中只剩下炸彈點未點開時顯示Win ，遊戲時間停止。
 >  8. 點擊到炸彈點後顯示Fail ，並且顯示所有炸彈位置，遊戲時間停止。
 >  9. 遊戲結束後，按下USR 按鍵進入設定畫面。
->  10.使用STemWin或TouchGFX完成GUI畫面。
-
-##### 改進功能：
->  1. 改為使用LVGL製作GUI與自行porting。
+>  10.使用LVGL完成GUI畫面。
 
 ##### 使用環境：
 >  1. STM32CubeMX Version 6.4.0
