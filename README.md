@@ -1,6 +1,6 @@
 # Minesweeper With LVGL on STM32F746GDISCO
 
-自行移植LVGL[1]至STM32F746G-DISCO開發版，製作Minesweeper(踩地雷)遊戲
+自行移植[LVGL](https://lvgl.io/)至STM32F746G-DISCO開發版，製作Minesweeper(踩地雷)遊戲
 
 ##### 基本功能：
 >  1. 開機後自動進入設定畫面，設定炸彈數量5 - 99，設定完成後開始遊戲。
